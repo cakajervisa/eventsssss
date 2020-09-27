@@ -1,0 +1,21 @@
+C:\Courses\C# Advanced\Visual Studio Projects\Events\Events\Events\bin\Debug\Events.exe.config
+C:\Courses\C# Advanced\Visual Studio Projects\Events\Events\Events\bin\Debug\Events.exe
+C:\Courses\C# Advanced\Visual Studio Projects\Events\Events\Events\bin\Debug\Events.pdb
+C:\Courses\C# Advanced\Visual Studio Projects\Events\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Courses\C# Advanced\Visual Studio Projects\Events\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Courses\C# Advanced\Visual Studio Projects\Events\Events\Events\obj\Debug\Events.exe
+C:\Courses\C# Advanced\Visual Studio Projects\Events\Events\Events\obj\Debug\Events.pdb
+C:\Courses\06. C# Advanced\Visual Studio Projects\06. Events\Events\bin\Debug\Events.exe.config
+C:\Courses\06. C# Advanced\Visual Studio Projects\06. Events\Events\bin\Debug\Events.exe
+C:\Courses\06. C# Advanced\Visual Studio Projects\06. Events\Events\bin\Debug\Events.pdb
+C:\Courses\06. C# Advanced\Visual Studio Projects\06. Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Courses\06. C# Advanced\Visual Studio Projects\06. Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Courses\06. C# Advanced\Visual Studio Projects\06. Events\Events\obj\Debug\Events.exe
+C:\Courses\06. C# Advanced\Visual Studio Projects\06. Events\Events\obj\Debug\Events.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 7\06.+Events\06. Events\Events\bin\Debug\Events.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 7\06.+Events\06. Events\Events\bin\Debug\Events.exe
+C:\Users\lleka\Documents\Akademia\Seanca 7\06.+Events\06. Events\Events\bin\Debug\Events.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 7\06.+Events\06. Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\lleka\Documents\Akademia\Seanca 7\06.+Events\06. Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\lleka\Documents\Akademia\Seanca 7\06.+Events\06. Events\Events\obj\Debug\Events.exe
+C:\Users\lleka\Documents\Akademia\Seanca 7\06.+Events\06. Events\Events\obj\Debug\Events.pdb
